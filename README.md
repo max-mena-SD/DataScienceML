@@ -1,4 +1,4 @@
-# Machine Learning Course - Expectations and Overview
+# Machine Learning - Goals
 
 ## Learning Structure
 
